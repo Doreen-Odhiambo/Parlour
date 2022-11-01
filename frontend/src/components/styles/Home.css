@@ -1,0 +1,29 @@
+.container {
+    padding: 1rem;
+    margin: 0 auto;
+    max-width: 100%;
+    width: 1000px;
+    
+}
+.topy{
+background-image: url( ../pic/landing.jfif);
+  background-size: cover;
+  background-position:center;
+  color: white;
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  height: 85vh;
+}
+ .nee{
+    text-align: normal;
+    margin: 50px;
+    color:black
+} 
+.pink{
+    color: black;
+    font-style: oblique;
+    position: absolute;
+    top:0.5px;
+    width: 500px;
+ }
